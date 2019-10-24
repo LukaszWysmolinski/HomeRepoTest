@@ -8,6 +8,6 @@ public class HelloWorld {
         System.out.println("second change");
         System.out.println("Third change");
         System.out.println("Fourth change on github.com");
-        System.out.println("And the last five change in InteliJ");
+        System.out.println("And the last fifth change in InteliJ");
     }
 }
