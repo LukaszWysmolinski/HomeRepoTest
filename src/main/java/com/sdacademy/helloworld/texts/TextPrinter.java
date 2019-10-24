@@ -4,7 +4,7 @@ public class TextPrinter {
 
     public static void main(String[] args) {
         System.out.print("Hello!\n"); //\n is the same as println - new line
-        System.out.print("My name is Adam.");
+        System.out.print("My name is Adam.\n");
         System.out.print(" I'm 20 years old");
         System.out.print(" I'm "+20+" years old"); // merged two strings
         System.out.println();
